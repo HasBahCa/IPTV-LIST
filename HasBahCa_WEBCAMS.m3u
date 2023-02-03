@@ -443,10 +443,6 @@ https://outbound-production.explore.org/stream-production-317/.m3u8
 https://video-auth1.iol.pt/beachcam/bcalbarquel/playlist.m3u8
 #EXTINF:-1 group-title="EU_PORTUGAL_webcam",Almograve - New
 https://video-auth1.iol.pt/beachcam/bcalmograve/playlist.m3u8
-#EXTINF:-1 group-title="EU_PORTUGAL_webcam",Alvor
-https://video-auth1.iol.pt/beachcam/alvor/playlist.m3u8
-#EXTINF:-1 group-title="EU_PORTUGAL_webcam",Alvor Nascente
-https://video-auth1.iol.pt/beachcam/bcalvornascente/playlist.m3u8
 #EXTINF:-1 group-title="EU_PORTUGAL_webcam",Areia Branca
 https://video-auth1.iol.pt/beachcam/bcareiabranca/playlist.m3u8
 #EXTINF:-1 group-title="LATINO_CAM",Armação de Pêra
@@ -471,14 +467,10 @@ https://5a7d54e35f9d2.streamlock.net/aquariuscenter/aquariuscenter.stream/chunkl
 https://5a7d54e35f9d2.streamlock.net/aquariuscenter2/aquariuscenter2.stream/chunklist.m3u8
 #EXTINF:-1 group-title="WORLD_webcam_MIX",B?sum Familienlagune
 https://ch-fra-n2.livespotting.com/vpu/tw0xvqm0/bc49630p_720.m3u8
-#EXTINF:-1 group-title="VIETNAM_WebCam",Bắc Cầu Phú Xuân Huế
-http://171.251.71.193:3098/live/huesbaccauphuxuan/index.m3u8
 #EXTINF:-1 group-title="EU_PORTUGAL_webcam",Baía de Cascais
 https://video-auth1.iol.pt/beachcam/praiadospescadores/playlist.m3u8
 #EXTINF:-1 group-title="LATINO_CAM",banner de alguma empresa brasilia
 https://dcxssbbjc3.zoeweb.tv/df-003-epia/df-003-epia.stream/playlist.m3u8
-#EXTINF:-1 group-title="VIETNAM_WebCam",Bến Nghé Huế
-http://171.251.71.193:3098/live/hues78bennghe/index.m3u8
 #EXTINF:-1 group-title="VIETNAM_WebCam",Biển Đà Nẵng
 https://livevn.piepme.com/camhls/14789.26f9b0b1eaeb92c6429f89ad0912d156_720p/index.m3u8
 #EXTINF:-1 group-title="WORLD_webcam_MIX",Bishkek - Kyrgyzstan (KG)
@@ -545,10 +537,6 @@ https://video2archives.earthcam.com/archives/_definst_/MP4:permanent/4559/2019/0
 https://video-auth1.iol.pt/beachcam/carcavelos2/playlist.m3u8
 #EXTINF:-1 group-title="EU_PORTUGAL_webcam",Carvoeiro
 https://video-auth1.iol.pt/beachcam/carvoeiro/playlist.m3u8
-#EXTINF:-1 group-title="VIETNAM_WebCam",Cầu Lòn Bùi Thị Xuân Huế
-http://171.251.71.193:3098/live/huesbuithixuan/index.m3u8
-#EXTINF:-1 group-title="EU_PORTUGAL_webcam",Caxias
-https://video-auth1.iol.pt/beachcam/caxias/playlist.m3u8
 #EXTINF:-1 group-title="*DE_GERMAN_DACH_WEBCAM",CH Aarau Aargau
 http://89.186.193.101:80/mjpg/video.mjpg
 #EXTINF:-1 group-title="*DE_GERMAN_DACH_WEBCAM",CH Lausanne Vaud
@@ -565,8 +553,6 @@ https://nqnmunicam.ddns.net/camnqn/monumento2_720p/playlist.m3u8
 https://nqnmunicam.ddns.net/camnqn/monumento_720p/playlist.m3u8
 #EXTINF:-1 group-title="WEB CAM Y CLIMA",CIUDAD DE NEUQUEN (Parque)
 https://nqnmunicam.ddns.net/camnqn/parque_720p/playlist.m3u8
-#EXTINF:-1 group-title="WEB CAM Y CLIMA",CIUDAD DE NEUQUEN (Rio)
-https://nqnmunicam.ddns.net/camnqn/rio_720p/playlist.m3u8
 #EXTINF:-1 group-title="VIETNAM_WebCam",cổng sau Bệnh viện C Đà Nẵng
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=b6mdgPBqAi8
 #EXTINF:-1 group-title="VIETNAM_WebCam",Công trình Bệnh viện Đà Nẵng
@@ -623,14 +609,10 @@ https://stream.hqv.cz/ratibor.obecni.net/index.m3u8
 http://212.6.91.123/mjpg/video.mjpg
 #EXTINF:-1 group-title="*DE_GERMAN_DACH_WEBCAM",DE Chemnitz Sachsen
 http://77.235.182.8:80/mjpg/video.mjpg
-#EXTINF:-1 group-title="*DE_GERMAN_DACH_WEBCAM",DE Stadtwerke Emsdetten GmbH
-http://91.190.227.198/mjpg/video.mjpg
 #EXTINF:-1 group-title="WORLD_webcam_MIX",Decorah - Eagles
 https://outbound-production.explore.org/stream-production-216/.m3u8
 #EXTINF:-1 group-title="WORLD_webcam_MIX",DK - Hedeland Skicenter
 https://cdn-003.whatsupcams.com/hls/dk_hedeland01.m3u8
-#EXTINF:-1 group-title="VIETNAM_WebCam",Đống Đa Huế
-http://171.251.71.193:3098/live/huesdongda/index.m3u8
 #EXTINF:-1 group-title="WORLD_webcam_MIX",Eagles
 https://outbound-production.explore.org/stream-production-320/.m3u8
 #EXTINF:-1 group-title="WORLD_webcam_MIX",Ehukai Beach
@@ -683,8 +665,6 @@ http://5c77a8c984f82.streamlock.net:1935/live/_definst_/ddorfcam-bp/HasBahCa.m3u
 http://ls12.webcamera.pl/umgdansk_cam_11161c/umgdansk_cam_11161c.stream/playlist.m3u8
 #EXTINF:-1 group-title="LATINO_CAM",Goiânia
 https://hunq9fz8yk.zoeweb.tv/aquariuscenter/aquariuscenter.stream/playlist.m3u8
-#EXTINF:-1 group-title="LATINO_CAM",GOIÂNIA - AVENIDA 85
-https://hunq9fz8yk.zoeweb.tv/av85/av85.stream/chunklist_w123426081.m3u8
 #EXTINF:-1 group-title="LATINO_CAM",GOIÂNIA - Avenida Castelo Branco
 https://5a7d54e35f9d2.streamlock.net/avt7/avt7.stream/chunklist_w1549205327.m3u8
 #EXTINF:-1 group-title="LATINO_CAM",GOIÂNIA - Morro do Mendanha
@@ -719,8 +699,6 @@ https://bagcilarbelediyesilive.mediatriple.net/bagcilarbelediyesi_live/broadcast
 https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_buyuk_camlica.stream/chunklist_w27132547.m3u8
 #EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul Büyük Çamlıca
 https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_buyuk_camlica.stream/chunklist_w334538024.m3u8
-#EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul Dragos
-https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_dragos.stream/HasBahCa.m3u8
 #EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul DRAGOS
 https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_dragos.stream/chunklist_w2055518299.m3u8
 #EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul EMİR SULTAN
@@ -739,8 +717,6 @@ https://eyup.taliavision.com//livestream/hls/arifpasa2/index.m3u8
 https://eyup.taliavision.com/livestream/hls/hzhalit1/index.m3u8
 #EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul Eyüpsultan-Hz. Halit Parkı 2
 https://eyup.taliavision.com/livestream/hls/hzhalit2/index.m3u8
-#EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul Eyüpsultan-Hz. Halit Parkı 3
-https://eyup.taliavision.com/livestream/hls/hzhalit3/index.m3u8
 #EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul Hidiv Kasrı
 https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_hidiv_kasri_1.stream/HasBahCa.m3u8
 #EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul HİDİV KASRI
@@ -849,8 +825,6 @@ https://video-auth1.iol.pt/beachcam/belem/playlist.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=P1CmJ1YJehA
 #EXTINF:-1 group-title="EU_PORTUGAL_webcam",Madeira - Jardim do Mar
 https://video-auth1.iol.pt/beachcam/jardimdomardois/playlist.m3u8
-#EXTINF:-1 group-title="LATINO_CAM",Madeira - Ponta Pequena - Paul
-https://video-auth1.iol.pt/beachcam/madeirajardimdomar/playlist.m3u8
 #EXTINF:-1 group-title="WORLD_webcam_MIX",Malibu
 https://outbound-production.explore.org/stream-production-183/.m3u8
 #EXTINF:-1 group-title="LATINO_CAM",Matosinhos
@@ -881,8 +855,6 @@ https://video-auth1.iol.pt/beachcam/nazareparadonorte/playlist.m3u8
 https://stream.inmoves.nl/rtplive/IB_99.stream/chunklist_w305955386.m3u8
 #EXTINF:-1 group-title="WORLD_webcam_MIX",Netherlands - Amsterdam Schiphol Airport
 https://stream.inmoves.nl/rtplive/IB_94.stream/chunklist_w1540689291.m3u8
-#EXTINF:-1 group-title="VIETNAM_WebCam",Nguyễn Huệ Huế
-http://171.251.71.193:3098/live/hues81nguyenhue/index.m3u8
 #EXTINF:-1 group-title="WORLD_webcam_MIX",NL - Blokzijl 1
 https://584b389d712f9.streamlock.net/live2/blokzijl1.stream/HasBahCa.m3u8
 #EXTINF:-1 group-title="WORLD_webcam_MIX",NL - Blokzijl 2
@@ -911,8 +883,6 @@ http://cdn15.streampartner.nl/interact1037_2/interact1037_2.stream/chunklist_w20
 https://outbound-production.explore.org/stream-production-77/.m3u8
 #EXTINF:-1 group-title="WORLD_webcam_MIX",Norway: Finse (Hotel Finse 1222)
 https://stream1.vossaskyen.no/bt/FinseStasjon.stream/chunklist_w254227656.m3u8?custom-mdt=on
-#EXTINF:-1 group-title="VIETNAM_WebCam",Nút giao phía Bắc Cầu Dã Viên Huế
-http://171.251.71.193:3098/live/huesnutgiaophiabaccaugiavien/index.m3u8
 #EXTINF:-1 group-title="LATINO_CAM",Ofir
 https://video-auth1.iol.pt/beachcam/bcofir/playlist.m3u8
 #EXTINF:-1 group-title="WORLD_webcam_MIX",Orcas
@@ -949,8 +919,6 @@ http://hls1.webcamera.pl/krakow_cam_c44608/krakow_cam_c44608.stream/chunks.m3u8
 http://hoktastream4.webcamera.pl/nocowanie_cam_a32dd1/nocowanie_cam_a32dd1.stream/playlist.m3u8
 #EXTINF:-1 group-title="WORLD_webcam_MIX",PL Krakow (PL)
 http://hoktastream2.webcamera.pl/krakow_cam_4c3e37/krakow_cam_4c3e37.stream/playlist.m3u8
-#EXTINF:-1 group-title="EU_POLAND_webcam",Poland - Cieszyn
-http://cdn.stream360.pl/CieszynCam/CieszynRynekHD.stream/HasBahCa.m3u8
 #EXTINF:-1 group-title="EU_POLAND_webcam",Poland - Cracow 2
 http://hls1.webcamera.pl/krakowsan_cam_480f1a/krakowsan_cam_480f1a.stream/chunks.m3u8
 #EXTINF:-1 group-title="EU_POLAND_webcam",Poland - Gdansk
@@ -1007,8 +975,6 @@ http://stream.elblag.net:18080/kim2/index.m3u8
 https://hls11.webcamera.pl/umgdansk_cam_11161c/umgdansk_cam_11161c.stream/playlist.m3u8
 #EXTINF:-1 group-title="EU_POLAND_webcam",Polen - Gdynia - Skwer Ko
 http://hls8.webcamera.pl/gdynia_cam_b3ccea/gdynia_cam_b3ccea.stream/playlist.m3u8
-#EXTINF:-1 group-title="EU_POLAND_webcam",Polen - Katowice Spodek
-http://hls12.webcamera.pl/katowice_cam_2bcad5/katowice_cam_2bcad5.stream/playlist.m3u8
 #EXTINF:-1 group-title="EU_POLAND_webcam",Polen - Najstarszy d
 https://hls8.webcamera.pl/dab-bartek_cam_187c42/dab-bartek_cam_187c42.stream/playlist.m3u8
 #EXTINF:-1 group-title="EU_POLAND_webcam",Polen - Niechorze pla
@@ -1055,8 +1021,6 @@ https://video-auth1.iol.pt/beachcam/praiaguinchosul/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/bcmeco/playlist.m3u8
 #EXTINF:-1 group-title="LATINO_CAM",Praia do Pedrógão
 https://video-auth1.iol.pt/beachcam/praiapedrogao/playlist.m3u8
-#EXTINF:-1 group-title="EU_PORTUGAL_webcam",Praia do Peneco
-https://video-auth1.iol.pt/beachcam/praiadopeneco/playlist.m3u8
 #EXTINF:-1 group-title="EU_PORTUGAL_webcam",Praia dos Pescadores
 https://video-auth1.iol.pt/beachcam/bcpescadores/playlist.m3u8
 #EXTINF:-1 group-title="LATINO_CAM",Praia Grande - Norte
@@ -1173,8 +1137,6 @@ http://sochi.camera:8080/cam_67/playlist.m3u8
 http://sochi.camera:8080/cam_68/playlist.m3u8
 #EXTINF:-1 group-title="RUS_exCCCP_webcam",SOCHI cam_72 FHD
 http://sochi.camera:8080/cam_72/playlist.m3u8
-#EXTINF:-1 group-title="RUS_exCCCP_webcam",SOCHI cam_80 FHD
-http://sochi.camera:8080/cam_80/playlist.m3u8
 #EXTINF:-1 group-title="RUS_exCCCP_webcam",SOCHI cam_83 FHD
 http://sochi.camera:8080/cam_83/playlist.m3u8
 #EXTINF:-1 group-title="RUS_exCCCP_webcam",SOCHI cam_85 FHD
@@ -1215,8 +1177,6 @@ http://sochi.camera:8080/cam_113/playlist.m3u8
 http://sochi.camera:8080/cam_114/playlist.m3u8
 #EXTINF:-1 group-title="RUS_exCCCP_webcam",SOCHI cam_115 FHD
 http://sochi.camera:8080/cam_115/playlist.m3u8
-#EXTINF:-1 group-title="RUS_exCCCP_webcam",SOCHI cam_117 FHD
-http://sochi.camera:8080/cam_117/playlist.m3u8
 #EXTINF:-1 group-title="RUS_exCCCP_webcam",SOCHI cam_119 FHD
 http://sochi.camera:8080/cam_119/playlist.m3u8
 #EXTINF:-1 group-title="RUS_exCCCP_webcam",SOCHI cam_124 FHD
@@ -1367,8 +1327,6 @@ http://sochi.camera:8080/cam_340/playlist.m3u8
 http://sochi.camera:8080/cam_341/playlist.m3u8
 #EXTINF:-1 group-title="RUS_exCCCP_webcam",SOCHI cam_343 FHD
 http://sochi.camera:8080/cam_343/playlist.m3u8
-#EXTINF:-1 group-title="RUS_exCCCP_webcam",SOCHI cam_344 FHD
-http://sochi.camera:8080/cam_344/playlist.m3u8
 #EXTINF:-1 group-title="RUS_exCCCP_webcam",SOCHI cam_345 FHD
 http://sochi.camera:8080/cam_345/playlist.m3u8
 #EXTINF:-1 group-title="RUS_exCCCP_webcam",SOCHI cam_346 FHD
@@ -1379,8 +1337,6 @@ http://sochi.camera:8080/cam_347/playlist.m3u8
 http://sochi.camera:8080/cam_348/playlist.m3u8
 #EXTINF:-1 group-title="RUS_exCCCP_webcam",SOCHI cam_349 FHD
 http://sochi.camera:8080/cam_349/playlist.m3u8
-#EXTINF:-1 group-title="RUS_exCCCP_webcam",SOCHI cam_350 FHD
-http://sochi.camera:8080/cam_350/playlist.m3u8
 #EXTINF:-1 group-title="RUS_exCCCP_webcam",SOCHI cam_351 FHD
 http://sochi.camera:8080/cam_351/playlist.m3u8
 #EXTINF:-1 group-title="RUS_exCCCP_webcam",SOCHI cam_358 FHD
@@ -1407,8 +1363,6 @@ http://sochi.camera:8080/cam_395/playlist.m3u8
 http://sochi.camera:8080/cam_396/playlist.m3u8
 #EXTINF:-1 group-title="RUS_exCCCP_webcam",SOCHI cam_407 FHD
 http://sochi.camera:8080/cam_407/playlist.m3u8
-#EXTINF:-1 group-title="RUS_exCCCP_webcam",SOCHI cam_410 FHD
-http://sochi.camera:8080/cam_410/playlist.m3u8
 #EXTINF:-1 group-title="RUS_exCCCP_webcam",SOCHI cam_411 FHD
 http://sochi.camera:8080/cam_411/playlist.m3u8
 #EXTINF:-1 group-title="RUS_exCCCP_webcam",SOCHI cam_412 FHD
@@ -1503,8 +1457,6 @@ http://sochi.camera:8080/cam_492/playlist.m3u8
 http://sochi.camera:8080/cam_494/playlist.m3u8
 #EXTINF:-1 group-title="RUS_exCCCP_webcam",SOCHI cam_495 FHD
 http://sochi.camera:8080/cam_495/playlist.m3u8
-#EXTINF:-1 group-title="RUS_exCCCP_webcam",SOCHI cam_496 FHD
-http://sochi.camera:8080/cam_496/playlist.m3u8
 #EXTINF:-1 group-title="RUS_exCCCP_webcam",SOCHI cam_497 FHD
 http://sochi.camera:8080/cam_497/playlist.m3u8
 #EXTINF:-1 group-title="RUS_exCCCP_webcam",SOCHI cam_498 FHD
@@ -1549,10 +1501,6 @@ http://sochi.camera:8080/cam_525/playlist.m3u8
 http://sochi.camera:8080/cam_526/playlist.m3u8
 #EXTINF:-1 group-title="RUS_exCCCP_webcam",SOCHI cam_527 FHD
 http://sochi.camera:8080/cam_527/playlist.m3u8
-#EXTINF:-1 group-title="VIETNAM_WebCam",Thành phố Huế 1
-http://171.251.71.193:3098/live/huesvincom1/index.m3u8
-#EXTINF:-1 group-title="VIETNAM_WebCam",Thành phố Huế 2
-http://171.251.71.193:3098/live/huesvincom2/index.m3u8
 #EXTINF:-1 group-title="*TÜRK_Webcam",Tokat-Stadyum Önü
 http://212.156.98.150:1936/Kamera/Stadyum.stream/HasBahCa.m3u8
 #EXTINF:-1 group-title="VIETNAM_WebCam",Trang phục Biểu diễn Phương Trần Đà Nẵng
@@ -1563,12 +1511,6 @@ https://video-auth1.iol.pt/beachcam/bctroia/playlist.m3u8
 https://outbound-production.explore.org/stream-production-10/.m3u8
 #EXTINF:-1 group-title="WORLD_webcam_MIX",Tropical Fish
 https://outbound-production.explore.org/stream-production-16/.m3u8
-#EXTINF:-1 group-title="VIETNAM_WebCam",Trường Chinh Huế
-http://171.251.71.193:3098/live/hues30truongchinh/index.m3u8
-#EXTINF:-1 group-title="WORLD_webcam_MIX",UK - Bishops Lydeard Station
-http://maybach.railcam.co.uk:80/BishopsLydeard_59234/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="WORLD_webcam_MIX",UK - Blue Anchor Station
-http://maybach.railcam.co.uk:80/BlueAnchor_68938/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="WORLD_webcam_MIX",UK - Dawlish
 https://camsecure.co/HLS/dawlish.m3u8
 #EXTINF:-1 group-title="WORLD_webcam_MIX",UK - Ilfracombe 1
@@ -1579,10 +1521,6 @@ https://camsecure.co/HLS/boatq.m3u8
 https://camsecure.co/HLS/westho.m3u8
 #EXTINF:-1 group-title="WORLD_webcam_MIX",UK - Williton Station
 http://maybach.railcam.co.uk:80/Williton1_17337/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="WORLD_webcam_MIX",UK - Пингвины
-http://stream.wildlifestreaming.io:1935/Marwell/marwell_penguin.stream/HasBahCa.m3u8
-#EXTINF:-1 group-title="WORLD_webcam_MIX",UK rail - Bishops Lydeard station
-https://maybach.railcam.co.uk/BishopsLydeard_59234/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="WORLD_webcam_MIX",UK rail - Crewe Cam 1 - Chester Lines
 https://maybach.railcam.co.uk/Crewe1_69241/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="WORLD_webcam_MIX",UK rail - Crewe Cam 3 - Chester Lines
@@ -1685,10 +1623,6 @@ https://5f9f690034fb0.streamlock.net:444/washougalairport/washougalairport.strea
 https://www.youtube.com/watch?v=TLZ6LcTDgNs
 #EXTINF:-1 group-title="LATINO_CAM",Vila Nova de Milfontes - Farol
 https://video-auth1.iol.pt/beachcam/bcfarol/playlist.m3u8
-#EXTINF:-1 group-title="LATINO_CAM",Vila Nova de Milfontes - Furnas Mar
-https://video-auth1.iol.pt/beachcam/furnasmar/playlist.m3u8
-#EXTINF:-1 group-title="LATINO_CAM",Vila Praia de Âncora
-https://video-auth1.iol.pt/beachcam/bcvilapraiadeancora/playlist.m3u8
 #EXTINF:-1 group-title="LATINO_CAM",Vilamoura
 https://video-auth1.iol.pt/beachcam/vilamoura/playlist.m3u8
 #EXTINF:-1 group-title="VIETNAM_WebCam",Vòng xoay Điện Biên Phủ TPHCM
@@ -1845,8 +1779,6 @@ http://gorod.tv/s/live/876/87.102.217.154/1643216962684/0.m3u8
 http://gorod.tv/s/live/845/87.102.217.154/1643216962684/0.m3u8
 #EXTINF:-1 group-title="RUS_exCCCP_webcam",дом 2
 http://gorod.tv/s/live/845/87.102.217.154/1643217069920/0.m3u8
-#EXTINF:-1 group-title="RUS_exCCCP_webcam",Евпатория 1
-http://185.26.218.199:8082/Frunze-26/index.m3u8
 #EXTINF:-1 group-title="RUS_exCCCP_webcam",Евпатория 2
 http://185.26.218.199:8082/Gorkogo-3/index.m3u8
 #EXTINF:-1 group-title="RUS_exCCCP_webcam",Ейск 2
@@ -1871,8 +1803,6 @@ https://flussonic.king-online.ru/camera07/index.m3u8
 https://flussonic.king-online.ru/camera02/index.m3u8
 #EXTINF:-1 group-title="RUS_exCCCP_webcam",Кингисепп 4
 https://flussonic.king-online.ru/camera04/index.m3u8
-#EXTINF:-1 group-title="RUS_exCCCP_webcam",Китай 2
-http://bililive.kksmg.com:1935/hls/sdi80/playlist.m3u8
 #EXTINF:-1 group-title="RUS_exCCCP_webcam",корп. 1
 http://gorod.tv/s/live/841/87.102.217.154/1643216962684/0.m3u8
 #EXTINF:-1 group-title="RUS_exCCCP_webcam",корп. 1
@@ -1998,8 +1928,6 @@ http://553dc34944e34.streamlock.net/ingrad/Tumensky3.stream/chunklist.m3u8
 #EXTINF:-1 group-title="RUS_exCCCP_webcam",Мурино 2
 http://91.202.44.216:8080/cam3/index.m3u8
 #EXTINF:-1 group-title="RUS_exCCCP_webcam",Мурино 3
-http://91.202.44.216:8080/cam5/index.m3u8
-#EXTINF:-1 group-title="RUS_exCCCP_webcam",Мурино 3
 http://91.202.44.216:8080/cam171/index.m3u8
 #EXTINF:-1 group-title="RUS_exCCCP_webcam",Мурино 4
 http://91.202.44.216:8080/cam6/index.m3u8
@@ -2067,8 +1995,6 @@ https://cam.indikom.ru/10/hls/stream.m3u8
 http://91.211.56.203:8081/sibmf/sport/playlist.m3u8
 #EXTINF:-1 group-title="RUS_exCCCP_webcam",Назарово 4
 http://91.211.56.203:8081/sibmf/park/playlist.m3u8
-#EXTINF:-1 group-title="RUS_exCCCP_webcam",Народного Ополчения пр.-Авангардная ул.
-http://gorod.tv/s/live/873/87.102.217.154/1643216962684/0.m3u8
 #EXTINF:-1 group-title="RUS_exCCCP_webcam",Нидерланды 3
 https://s1.worldcam.live:8082/egmondaanzee/index.m3u8
 #EXTINF:-1 group-title="RUS_exCCCP_webcam",Нижний Тагил 1
@@ -2093,8 +2019,6 @@ http://gorod.tv/s/live/872/87.102.217.154/1643217069920/0.m3u8
 http://poliklinika.camsh.ntsk.ru/hls/ntsk-poliklinika.m3u8
 #EXTINF:-1 group-title="RUS_exCCCP_webcam",Новотроицк 2
 http://uralskaya.camsh.ntsk.ru/hls/ntsk-uralskaya.m3u8
-#EXTINF:-1 group-title="RUS_exCCCP_webcam",Новотроицк 4
-http://adm.camsh.ntsk.ru/hls/ntsk-adm.m3u8
 #EXTINF:-1 group-title="RUS_exCCCP_webcam",Новотроицк 5
 http://alkomarket.camsh.ntsk.ru/hls/ntsk-alkomarket.m3u8
 #EXTINF:-1 group-title="RUS_exCCCP_webcam",Новотроицк 6
@@ -2123,8 +2047,6 @@ http://95.182.112.19:8100/hls/camera2.m3u8
 http://95.182.112.19:8100/hls/camera3.m3u8
 #EXTINF:-1 group-title="RUS_exCCCP_webcam",Ораниенбаумский пр.38
 http://gorod.tv/s/live/886/87.102.217.154/1643216962684/0.m3u8
-#EXTINF:-1 group-title="RUS_exCCCP_webcam",Ораниенбаумский пр.-ул.Федюнинского
-http://gorod.tv/s/live/898/87.102.217.154/1643216962684/0.m3u8
 #EXTINF:-1 group-title="RUS_exCCCP_webcam",Оренбург 2
 http://video.infodor.pro:8080/N16/index.m3u8
 #EXTINF:-1 group-title="RUS_exCCCP_webcam",Оренбург 3
@@ -2533,46 +2455,28 @@ http://stream.trafjam.ru/cam8_site/index.m3u8
 http://gorod.tv/s/live/881/87.102.217.154/1643216962684/0.m3u8
 #EXTINF:-1 group-title="RUS_exCCCP_webcam",Феодосия 1
 http://webcam.feonet.net/adv_48877/index.m3u8
-#EXTINF:-1 group-title="RUS_exCCCP_webcam",Феодосия 1
-https://webcam.feonet.net/adv_48877/index.m3u8
 #EXTINF:-1 group-title="RUS_exCCCP_webcam",Феодосия 2
 http://webcam.feonet.net/adv_54664/index.m3u8
-#EXTINF:-1 group-title="RUS_exCCCP_webcam",Феодосия 2
-https://webcam.feonet.net/adv_54664/index.m3u8
 #EXTINF:-1 group-title="RUS_exCCCP_webcam",Феодосия 4
 http://webcam.feonet.net/adv_42371/index.m3u8
-#EXTINF:-1 group-title="RUS_exCCCP_webcam",Феодосия 4
-https://webcam.feonet.net/adv_42371/index.m3u8
 #EXTINF:-1 group-title="RUS_exCCCP_webcam",Феодосия 5
 http://webcam.feonet.net/adv_54655/index.m3u8
-#EXTINF:-1 group-title="RUS_exCCCP_webcam",Феодосия 5
-https://webcam.feonet.net/adv_54655/index.m3u8
 #EXTINF:-1 group-title="RUS_exCCCP_webcam",Феодосия 6
 http://webcam.feonet.net/adv_54656/index.m3u8
-#EXTINF:-1 group-title="RUS_exCCCP_webcam",Феодосия 7
-http://webcam.feonet.net/adv_18569/index.m3u8
 #EXTINF:-1 group-title="RUS_exCCCP_webcam",Феодосия 7
 https://webcam.feonet.net/adv_18569/index.m3u8
 #EXTINF:-1 group-title="RUS_exCCCP_webcam",Феодосия 8
 http://webcam.feonet.net/adv_42370/index.m3u8
-#EXTINF:-1 group-title="RUS_exCCCP_webcam",Феодосия 8
-https://webcam.feonet.net/adv_42370/index.m3u8
 #EXTINF:-1 group-title="RUS_exCCCP_webcam",Феодосия 8
 https://webcam.feonet.net/adv_30545/index.m3u8
 #EXTINF:-1 group-title="RUS_exCCCP_webcam",Феодосия 9
 https://webcam.feonet.net/adv_92333/index.m3u8
 #EXTINF:-1 group-title="RUS_exCCCP_webcam",Феодосия 10
 http://webcam.feonet.net/adv_54757/index.m3u8
-#EXTINF:-1 group-title="RUS_exCCCP_webcam",Феодосия 10
-https://webcam.feonet.net/adv_54757/index.m3u8
 #EXTINF:-1 group-title="RUS_exCCCP_webcam",Феодосия 11
 http://webcam.feonet.net/adv_92332/index.m3u8
-#EXTINF:-1 group-title="RUS_exCCCP_webcam",Феодосия 11
-https://webcam.feonet.net/adv_92332/index.m3u8
 #EXTINF:-1 group-title="RUS_exCCCP_webcam",Феодосия 12
 http://webcam.feonet.net/adv_56461/index.m3u8
-#EXTINF:-1 group-title="RUS_exCCCP_webcam",Феодосия 12
-https://webcam.feonet.net/adv_56461/index.m3u8
 #EXTINF:-1 group-title="RUS_exCCCP_webcam",Феодосия 13
 http://webcam.feonet.net/adv_63262/index.m3u8
 #EXTINF:-1 group-title="RUS_exCCCP_webcam",Феодосия 14
@@ -2615,8 +2519,6 @@ http://live.cmirit.ru:1935/live/axis7_1920x1080.stream/HasBahCa.m3u8
 http://live.cmirit.ru:1935/live/rvi2_1920x1080.stream/HasBahCa.m3u8
 #EXTINF:-1 group-title="RUS_exCCCP_webcam",Череповец 10
 http://live.cmirit.ru:1935/live/smart4_1920x1080.stream/HasBahCa.m3u8
-#EXTINF:-1 group-title="RUS_exCCCP_webcam",Череповец 11
-http://live.cmirit.ru:1935/live/smart3_1920x1080.stream/HasBahCa.m3u8
 #EXTINF:-1 group-title="RUS_exCCCP_webcam",Череповец 13
 http://live.cmirit.ru:1935/live/rvi1_1920x1080.stream/HasBahCa.m3u8
 #EXTINF:-1 group-title="RUS_exCCCP_webcam",Череповец 14
