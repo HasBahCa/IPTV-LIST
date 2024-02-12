@@ -1,0 +1,371 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/2_ABC_WMAR_Baltimore.png",ABC 2 Baltimore MD (WMAR) (720p)
+https://lnc-wmar.tubi.video/playlist.m3u8
+#EXTINF:-1,ABC 2 Baltimore WMAR
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WMAR.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4iEFQjd.png",ABC 4 Pittsburg PA (WTAE) (720p)
+https://lnc-wtae.tubi.video/playlist.m3u8
+#EXTINF:-1,ABC 6 Boise KIVI
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KIVI.m3u8
+#EXTINF:-1,ABC 7 Buffalo WKBW
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WKBW.m3u8
+#EXTINF:-1,ABC 9 Tucson KGUN
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KGUN.m3u8
+#EXTINF:-1,ABC 13 Las Vegas KTNV
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KTNV.m3u8
+#EXTINF:-1,ABC 23 Bakersfield KERO
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KERO.m3u8
+#EXTINF:-1,ABC 25 Waco KXXV
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KXXV.m3u8
+#EXTINF:-1,ABC 27 Tallahassee WTXL
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WTXL.m3u8
+#EXTINF:-1,ABC Denver KMGH
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KMGH2.m3u8
+#EXTINF:-1,ABC Localish
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Localish.m3u8
+#EXTINF:-1,ABC News Live
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,ABC-News.m3u8
+#EXTINF:-1,All Real
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,All-Real.m3u8
+#EXTINF:-1,Alter Horror
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Alter.m3u8
+#EXTINF:-1,Americas Dumbest Criminals
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Americas-Dumbest-Criminals.m3u8
+#EXTINF:-1,Americas Test Kitchen
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Americas-Test-Kitchen.m3u8
+#EXTINF:-1,Anger Management Channel
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Anger-Management.m3u8
+#EXTINF:-1,Anger Management en Espanol
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Anger-Management-Espanol.m3u8
+#EXTINF:-1,Are we there yet?
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Are-We-There-Yet.m3u8
+#EXTINF:-1,Baywatch
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Baywatch.m3u8
+#EXTINF:-1,BBC Doctor Who Classic (720p)
+https://lnc-dr-who.tubi.video/playlist.m3u8
+#EXTINF:-1,BBC Earth (720p)
+https://lnc-bbc-earth.tubi.video/playlist.m3u8
+#EXTINF:-1,BBC Silent Witness New Tricks (720p)
+https://lnc-bbc-silent-witness-new-tricks.tubi.video/playlist.m3u8
+#EXTINF:-1,BBC Top Gear (720p)
+https://lnc-bbc-top-gear.tubi.video/playlist.m3u8
+#EXTINF:-1,Bloomberg TV
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Bloomberg-Relative.m3u8
+#EXTINF:-1,Bounce XL
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Bounce-XL.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PJdzoLN.png",BritBox Mysteries (1080p)
+https://lnc-bbc-britbox-mysteries.tubi.video/playlist.m3u8
+#EXTINF:-1,BUZZR
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Buzzr.m3u8
+#EXTINF:-1,Caught in Providence
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Caught-In-Providence.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rbhvVL3.png",Caught in Providence (720p)
+https://lnc-caught-in-providence.tubi.video/playlist.m3u8
+#EXTINF:-1,CBC News Canada
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-CBC.m3u8
+#EXTINF:-1,CBS 3 Great Falls KRTV
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KRTV.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png",CBS 3 Great Falls MT (KRTV) (720p)
+https://lnc-krtv.tubi.video/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png",CBS 3 Norfolk VA (WTKR) (720p)
+https://lnc-wtkr.tubi.video/playlist.m3u8
+#EXTINF:-1,CBS 3 Norfolk WTKR
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WTKR.m3u8
+#EXTINF:-1,CBS 3 Omaha KMTV
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KMTV.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png",CBS 5 Nashville TN (WTVF) (720p)
+https://lnc-wtvf2.tubi.video/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png",CBS 6 Richmond VA (WTVR) (720p)
+https://lnc-wtvr.tubi.video/playlist.m3u8
+#EXTINF:-1,CBS 6 Richmond WTVR
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WTVR.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png",CBS 7 Bozeman MT (KBZK) (720p)
+https://lnc-kbzk.tubi.video/playlist.m3u8
+#EXTINF:-1,CBS 7 Butte KBZK
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KBZK.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png",CBS 8 Missoula MT (KPAX) (720p)
+https://lnc-kpax.tubi.video/playlist.m3u8
+#EXTINF:-1,Cheddar News
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Cheddar.m3u8
+#EXTINF:-1,Cine Estrella (1080p)
+https://lnc-cine-estrella.tubi.video/playlist.m3u8
+#EXTINF:-1,Cinevault 80's
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,CINEVAULT-80s.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xaCyyDd.png",Cinevault 80s (720p)
+https://lnc-cinevault-80s.tubi.video/playlist.m3u8
+#EXTINF:-1,Cinevault Classics
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,CINEVAULT-Classics.m3u8
+#EXTINF:-1,Cinevault Classics (720p)
+https://lnc-cinevault-classics.tubi.video/playlist.m3u8
+#EXTINF:-1,Cinevault Westerns
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,CINEVAULT-Westerns.m3u8?
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K1W137J.png",Cinevault Westerns (720p)
+https://lnc-cinevault-westerns.tubi.video/playlist.m3u8
+#EXTINF:-1,Circle
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Circle.m3u8
+#EXTINF:-1,Comedy Dynamics
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Comedy-Dynamics.m3u8
+#EXTINF:-1,Cosmos
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cosmos.m3u8
+#EXTINF:-1,Cosmos (720p)
+https://lnc-cosmos.tubi.video/index.m3u8
+#EXTINF:-1,Court TV
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Court-TV.m3u8
+#EXTINF:-1,Deal or no Deal
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Deal-or-No-Deal.m3u8
+#EXTINF:-1,Dr. G Medical Examiner (720p)
+https://lnc-dr-g-filmrise.tubi.video/index.m3u8
+#EXTINF:-1,Drag Race Universe (1080p)
+https://lnc-dragrace.tubi.video/playlist.m3u8
+#EXTINF:-1,Estrella News
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Estrella.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CIYnLWz.png",Fear Factor (720p)
+https://lnc-fear-factor.tubi.video/playlist.m3u8
+#EXTINF:-1,Filmrise Black TV
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,FilmRise-BlackTV.m3u8
+#EXTINF:-1,Filmrise Black TV (720p)
+https://lnc-filmrise-blacktv.tubi.video/index.m3u8
+#EXTINF:-1,Filmrise Forensic Files
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Forensic-Files.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8j2npVc.png",Filmrise Forensic Files (720p)
+https://lnc-forensic-files.tubi.video/index.m3u8
+#EXTINF:-1,Filmrise Heartland
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Heartland.m3u8
+#EXTINF:-1,Filmrise Horror
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,FilmRise-Horror.m3u8
+#EXTINF:-1,Filmrise Horror (720p)
+https://lnc-filmrise-horror.tubi.video/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ztksnJB.png",Filmrise Hunter (720p)
+https://lnc-hunter-filmrise.tubi.video/index.m3u8
+#EXTINF:-1,Filmrise True Crime
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,FilmRise-True-Crime.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8j2npVc.png",Filmrise True Crime (720p)
+https://lnc-filmrise-true-crime.tubi.video/index.m3u8
+#EXTINF:-1,Filmrise Unsolved Mysterys
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Unsolved-Mysteries.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8j2npVc.png",Filmrise Western (720p)
+https://lnc-filmrise-western.tubi.video/playlist.m3u8
+#EXTINF:-1,Four in a Bed (1080p)
+https://lnc-four-in-a-bed.tubi.video/playlist.m3u8
+#EXTINF:-1,Fox 4 Fort Myers WFTX
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WFTX.m3u8
+#EXTINF:-1,Fox Soul
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Fox-Soul-SCTE.m3u8
+#EXTINF:-1,Fox Weather
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fox-Weather.m3u8
+#EXTINF:-1,Gardening With Monty Don (720p)
+https://lnc-gardening-monty-don.tubi.video/playlist.m3u8
+#EXTINF:-1,Gordon Ramsey
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Gordon-Ramsey.m3u8
+#EXTINF:-1,Great British Menu (720p)
+https://lnc-great-british-menu.tubi.video/playlist.m3u8
+#EXTINF:-1,Grit Xtra
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Grit-Extra.m3u8
+#EXTINF:-1,Haunt TV
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,HauntTV.m3u8
+#EXTINF:-1,Heartland (720p)
+https://lnc-heartland.tubi.video/index.m3u8
+#EXTINF:-1,History Time (1080p)
+https://lnc-historytime.tubi.video/playlist.m3u8
+#EXTINF:-1,HI-Yah!
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Hi-YAH.m3u8
+#EXTINF:-1,Homeful
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Homeful.m3u8
+#EXTINF:-1,Homeful (1080p)
+https://lnc-homeful.tubi.video/playlist.m3u8
+#EXTINF:-1,ION
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,ION.m3u8
+#EXTINF:-1,ION Plus
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,ION-Plus.m3u8
+#EXTINF:-1,KARE NBC 11 Minneapolis-ST-Paul
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KARE.m3u8
+#EXTINF:-1,KCCI Iowa Des Moines
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-KCCI.m3u8
+#EXTINF:-1,KGTV ABC 10 San Diego
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KGTV2.m3u8
+#EXTINF:-1,KGW NBC 8 Portland Oregon
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,KGW.m3u8
+#EXTINF:-1,KHOU CBS 11 Houston
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-KHOU.m3u8
+#EXTINF:-1,KNXV ABC 15 Phoenix
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KNXV2.m3u8
+#EXTINF:-1,KSTU Fox 13 Salt Lake City
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KSTU2.m3u8
+#EXTINF:-1,KUSA NBC 9 News Denver
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,KUSA.m3u8
+#EXTINF:-1,Live Now From Fox
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Fox-Live-Now.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ACEbGD5.png",Localish (720p)
+https://lnc-localish.tubi.video/index.m3u8
+#EXTINF:-1,Lol Standup
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,LOL-Stand-Up.m3u8
+#EXTINF:-1,Love Nature
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Love-Nature.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png",Love Nature (1080p)
+https://lnc-love-nature.tubi.video/playlist.m3u8
+#EXTINF:-1,Maverick Black Cinema
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Maverick-Black-Cinema.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OEamqFg.png",Maverick Black Cinema (720p)
+https://lnc-maverick-black-cinema.tubi.video/playlist.m3u8
+#EXTINF:-1,MLB
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,MLB2.m3u8
+#EXTINF:-1,Moviesphere
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,MovieSphere.m3u8
+#EXTINF:-1,Mr. Beast (1080p)
+https://lnc-mr-beast.tubi.video/playlist.m3u8
+#EXTINF:-1,MST3K
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,MST3K.m3u8
+#EXTINF:-1,Nashville Channel (1080p)
+https://lnc-nashville.tubi.video/playlist.m3u8
+#EXTINF:-1,NBC 2 Tulsa KJRH
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KJRH.m3u8
+#EXTINF:-1,NBC 5 Colorado Springs KOAA
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KOAA.m3u8
+#EXTINF:-1,NBC 5 West Palm Beach WPTV
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WPTV2.m3u8
+#EXTINF:-1,NBC 18 Lexington WLEX
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WLEX.m3u8
+#EXTINF:-1,News 12 New York
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-News12.m3u8
+#EXTINF:-1,NHRA TV
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,NHRA.m3u8
+#EXTINF:-1,Pattrn
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-Pattrn.m3u8
+#EXTINF:-1,Racing America
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Racing-America.m3u8
+#EXTINF:-1,Reelz
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Reelz.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/512px-Reelz.svg.png",Reelz
+https://lnc-reelz.tubi.video/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eaYnGpH.png",Revolt (1080p)
+https://lnc-revolt.tubi.video/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XC30JAF.png",Samuel Goldwyn Classics (720p)
+https://lnc-samuel-goldwyn-classics.tubi.video/playlist.m3u8
+#EXTINF:-1,Scripps News
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Scripps-News.m3u8
+#EXTINF:-1,The Biggest Loser
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Biggest-Loser.m3u8
+#EXTINF:-1,The Biggest Loser (1080p)
+https://lnc-biggest-loser.tubi.video/playlist.m3u8
+#EXTINF:-1,The Bob Ross Channel
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Bob-Ross.m3u8
+#EXTINF:-1,The Carol Burnett Show
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Carol-Burnett.m3u8
+#EXTINF:-1,The Grio
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,BNC.m3u8
+#EXTINF:-1,The Jack Hanna Channel
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Jack-Hannah.m3u8
+#EXTINF:-1,The Jack Hanna Channel (1080p)
+https://lnc-jack-hannah.tubi.video/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4v93XUB.png",The Jamie Oliver Channel (720p)
+https://lnc-jamie-oliver.tubi.video/playlist.m3u8
+#EXTINF:-1,The Johnny Carson Show
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Johnny-Carson.m3u8
+#EXTINF:-1,The Masked Singer
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Masked-Singer.m3u8
+#EXTINF:-1,The Masked Singer (720p)
+https://lnc-masked-singer.tubi.video/index.m3u8
+#EXTINF:-1,TMZ
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,TMZ.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eLIe7Va.png",TMZ (720p)
+https://lnc-tmz.tubi.video/index.m3u8
+#EXTINF:-1,Top Rank Classics (1080p)
+https://lnc-top-rank.tubi.video/playlist.m3u8
+#EXTINF:-1,Total Crime
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Total-Crime.m3u8
+#EXTINF:-1,Total Crime (1080p)
+https://lnc-total-crime.tubi.video/playlist.m3u8
+#EXTINF:-1,Tubi Originals
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Tubi-Originals.m3u8
+#EXTINF:-1,Tubi Originals (720p)
+https://lnc-tubi-originals.tubi.video/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tthm8Q5.png",TV One (1080p)
+https://lnc-tv-one.tubi.video/playlist.m3u8
+#EXTINF:-1,USA Today
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-USA-Today.m3u8
+#EXTINF:-1,Very Alabama by WVTM
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WVTM.m3u8
+#EXTINF:-1,Very Arkansas by KHBS
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-KHBS.m3u8
+#EXTINF:-1,Very Baltimore by WBAL
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WBAL.m3u8
+#EXTINF:-1,Very Boston WCVB
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WCVB.m3u8
+#EXTINF:-1,Very Carolina WXII
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WXII.m3u8
+#EXTINF:-1,Very Champlain WPTZ
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WPTZ.m3u8
+#EXTINF:-1,Very Cincinnati by WLWT
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WLWT.m3u8
+#EXTINF:-1,Very Jackson WAPT
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WAPT.m3u8
+#EXTINF:-1,Very Kansas City KMBC
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-KMBC.m3u8
+#EXTINF:-1,Very Lancaster WGAL
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WGAL.m3u8
+#EXTINF:-1,Very Louisville by WLKY
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WLKY.m3u8
+#EXTINF:-1,Very Maine WMTW
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WMTW.m3u8
+#EXTINF:-1,Very Milwaukee by WISN
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WISN.m3u8
+#EXTINF:-1,Very Monterey by KSBW
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-KSBW.m3u8
+#EXTINF:-1,Very Oklahoma by KOCO
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-KOCO.m3u8
+#EXTINF:-1,Very Omaha by KETV7
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-KETV.m3u8
+#EXTINF:-1,Very Orlando by WESH
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WESH.m3u8
+#EXTINF:-1,Very Pittsburgh by WTAE
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WTAE.m3u8
+#EXTINF:-1,Very S. Carolina WYFF
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WYFF.m3u8
+#EXTINF:-1,Very Sacramento KCRA
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-KCRA.m3u8
+#EXTINF:-1,Very Savannah WJCD
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WJCL.m3u8
+#EXTINF:-1,Very South Florida WPBF
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WPBF.m3u8
+#EXTINF:-1,Very Tampa Bay WMOR
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WMOR.m3u8
+#EXTINF:-1,Vice
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,VICE.m3u8
+#EXTINF:-1,Wanted Dead or Alive
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Wanted-Dead-Or-Alive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vaSXaFp.png",Wanted: Dead or Alive (720p)
+https://lnc-wanted-dead-or-alive.tubi.video/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9vvlJN9.png",Waypoint TV (720p)
+https://lnc-waypoint.tubi.video/playlist.m3u8
+#EXTINF:-1,WBNS CBS 10 Columbus
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,WBNS.m3u8
+#EXTINF:-1,WEWS ABC 5 Cleveland
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WEWS2.m3u8
+#EXTINF:-1,WFAA ABC 8 Dallas-Fort-Worth
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WFAA.m3u8
+#EXTINF:-1,WFMY CBS 2 Greensboro NC
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,WFMY.m3u8
+#EXTINF:-1,WFTS ABC 39 Tampa Bay
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WFTS2.m3u8
+#EXTINF:-1,Wipeout Xtra
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Wipeout-Xtra.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UDeCRW1.png",Wipeout Xtra (720p)
+https://lnc-wipeout-xtra.tubi.video/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/WMOR.svg/512px-WMOR.svg.png",WMOR-TV News Lakeland FL (720p)
+https://lnc-wmor.tubi.video/playlist.m3u8
+#EXTINF:-1,WMUR 9 New Hampshire
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WMUR.m3u8
+#EXTINF:-1,Womens Sports Network
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fast-Studios-Womens-Sports.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rhIwUcQ.png",Women's Sports Network (720p)
+https://lnc-fast-studios-womens-sports.tubi.video/playlist.m3u8
+#EXTINF:-1,WTIC Fox 61 Hartford
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WTIC.m3u8
+#EXTINF:-1,WUSA CBS 9 Washington DC
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WUSA.m3u8
+#EXTINF:-1,WXMI Fox 17 Grand Rapids
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WXMI.m3u8
+#EXTINF:-1,WXYZ ABC 7 Detroit
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WXYZ2.m3u8
+#EXTINF:-1,Xplore
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Xplore.m3u8

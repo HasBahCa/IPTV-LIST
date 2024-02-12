@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1,Aspire TV Life
+https://uptv-aspiretvlife-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1,Billiard TV
+https://tripleb-billiardtv.amagi.tv/hls/amagi_hls_data_klowdtvAA-tripleb-billiardtv/CDN/playlist.m3u8
+#EXTINF:-1,Demand Africa
+https://demandafrica-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1,France 24
+http://n1.klowdtv.net/live2/france24_720p/chunks.m3u8
+#EXTINF:-1,France 24 Espanol
+http://n1.klowdtv.net/live2/france24sp_720p/chunks.m3u8
+#EXTINF:-1,Fun Roads TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=978
+#EXTINF:-1,Sportsgrid
+https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1,The First
+https://redseat-thefirst-klowdtv.amagi.tv/hls/amagi_hls_data_klowdtvAA-redseat-thefirst-klowdtv/CDN/playlist.m3u8
+#EXTINF:-1,Unbeaten
+https://inverleigh-unbeaten-klowdtv.amagi.tv/playlist.m3u8
